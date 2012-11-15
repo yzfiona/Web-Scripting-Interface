@@ -1,0 +1,2 @@
+# Module Application.widgetset.Web_scripting_interfaceWidgetset
+# RPC service class, partial path of RPC policy file

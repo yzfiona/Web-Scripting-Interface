@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Web_Scripting_Interface
+Bundle-SymbolicName: Web_Scripting_Interface
+Bundle-Version: 1.0.0.qualifier
+Export-Package: Application,
+ Application.widgetset,
+ components,
+ scala_scripting,
+ test
